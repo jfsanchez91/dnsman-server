@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: net.jfsanchez.dnsman
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, cache-caffeine, graalvm, gradle, http-client, java, java-application, jib, junit, logback, lombok, micronaut-aot, micronaut-build, micronaut-validation, mockito, netty-server, openapi, properties, reactor, reactor-http-client, readme, security-annotations, security-jwt, serialization-jackson, shade, swagger-ui]
